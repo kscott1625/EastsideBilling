@@ -106,6 +106,10 @@ section {
   margin-bottom: 55px;
   -webkit-text-stroke: 0.5px black;
 }
+
+.home-text a {
+  color: #fff;
+}
 header.sticky {
   padding: 12px 15%;
   background: var(--main-color);
