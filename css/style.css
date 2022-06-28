@@ -284,6 +284,9 @@ form textarea {
   .home {
     height: 85vh;
   }
+  .home-text h1 {
+    font-size: 3.5rem;
+  }
   #menu-icon {
     display: initial;
   }
