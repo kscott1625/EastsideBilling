@@ -102,7 +102,7 @@ section {
   -webkit-text-stroke: 0.5px black;
 }
 .home-text h3 {
-  font-size: 25px;
+  font-size: 35px;
   margin-bottom: 55px;
   -webkit-text-stroke: 0.5px black;
 }
@@ -321,6 +321,7 @@ form textarea {
   }
   .about {
     grid-template-columns: 1fr;
+    text-align: center;
   }
   .about-img {
     text-align: center;
