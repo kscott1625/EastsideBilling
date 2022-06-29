@@ -138,6 +138,7 @@ header.sticky {
   max-width: 590px;
   font-size: var(--p-font);
   margin-bottom: 45px;
+  color: var(--second-color);
 }
 
 .services {
@@ -150,6 +151,7 @@ header.sticky {
 .center h2 {
   font-size: var(--h2-font);
   margin-bottom: 15px;
+  color: var(--text-color);
 }
 .center {
   color: var(--second-color);
@@ -168,7 +170,7 @@ header.sticky {
   font-size: var(--h2-font);
   margin-bottom: 15px;
 }
-.review p {
+.row p {
   color: var(--second-color);
   letter-spacing: 1px;
   line-height: 28px;
